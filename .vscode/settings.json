@@ -1,4 +1,8 @@
 {
     "editor.fontSize": 18,
-    "editor.autoClosingBrackets": "always"
+    "editor.autoClosingBrackets": "always",
+    "java.project.sourcePaths": [
+        "event",
+        "Networking"
+    ]
 }
