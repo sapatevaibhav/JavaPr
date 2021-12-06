@@ -3,6 +3,7 @@
     "editor.autoClosingBrackets": "always",
     "java.project.sourcePaths": [
         "event",
-        "Networking"
+        "Networking",
+        "project"
     ]
 }
